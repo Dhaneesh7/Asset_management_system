@@ -48,7 +48,6 @@ Asset_management_system/
 └──assetmanagementsytem.pdf(ER-Diagram)
 └──techstack
 └──folderstructure
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/734ca4a0-c6ac-4717-b7a7-892a856ef4d7" /># Asset_management_system
  
 if you face any problem while checking folder structure goto folderstructure file
 
