@@ -45,6 +45,9 @@ Asset_management_system/
 │   └── package.json
 │
 └── README.md
+└──assetmanagementsytem.pdf(ER-Diagram)
+└──techstack
+
 
 
 
