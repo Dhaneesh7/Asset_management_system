@@ -1,4 +1,4 @@
-# Asset_management_system
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/734ca4a0-c6ac-4717-b7a7-892a856ef4d7" /># Asset_management_system
 🧾 Asset Management System – Project Description The Asset Management System (AMS) is a full-featured web-based application .It includes functionality to manage assets,vendor,manufacturer,branches,GRNs (Goods Received Notes), and generate Excel-based reports.
 🛠️ Tech Stack
 
@@ -47,6 +47,7 @@ Asset_management_system/
 └── README.md
 └──assetmanagementsytem.pdf(ER-Diagram)
 └──techstack
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c44691b8-cca5-4135-a65c-702e662ba03b" />
 
 
 
